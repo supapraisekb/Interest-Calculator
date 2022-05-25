@@ -10,15 +10,15 @@ h1{
     }
 
 .maindiv{
-    margin: auto;
+   margin: auto;
     background-color: white;
     color: black;
-    width: 365px;
+    width: 300px;
     padding: 20px;
     border-radius: 25px;
-    }
+    text-align: center;
+   }
 
 p{
     padding-left: 30px;
 }
-
